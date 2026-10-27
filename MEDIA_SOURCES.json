@@ -1,0 +1,250 @@
+[
+  {
+    "file": "gallery/construction-overview.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/01_site_overview.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1734,
+    "height": 1645,
+    "sha256": "2ad3347f482154eed39e5b8f37740d1fbb305ca6ec06c3741969c521097f61c1"
+  },
+  {
+    "file": "gallery/construction-dsm.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/02_dsm_overview.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1685,
+    "height": 1506,
+    "sha256": "51cbf948e0da171f86b12d1ff75bc5d07b0b8e0bc06f9dee7f7dcf29441ea233"
+  },
+  {
+    "file": "gallery/construction-dtm.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/02_dtm_overview.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1685,
+    "height": 1507,
+    "sha256": "41f63322c7cd7f59f46916bdad2898121a7381f80ba7e314778295b5de019bf9"
+  },
+  {
+    "file": "gallery/construction-slopes.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/04_slope_sigma_1m.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1685,
+    "height": 1506,
+    "sha256": "d65477c442fe46dbee185fe07fda397c5c480bb5838b6e360f1f8d1a9d02140e"
+  },
+  {
+    "file": "gallery/construction-t01.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/05_T01_low_slope.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1595,
+    "height": 1317,
+    "sha256": "d51e48a5a66577faa1727c4ca9c3bcc67827455d2faca3c6119bdb619c999926"
+  },
+  {
+    "file": "gallery/construction-contours.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/06_T01_contours.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1719,
+    "height": 1261,
+    "sha256": "37446ed90afa5dfea135bbbe8a888e802f144d26246745feb02d96914239af62"
+  },
+  {
+    "file": "gallery/construction-s01.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/engineering_sheets/S01_engineering_sheet.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2800,
+    "height": 1732,
+    "sha256": "69da221ca2a7d7f7f30a73c249ee1fcf9bb6db3ae57496d8c741c45910605ffa"
+  },
+  {
+    "file": "gallery/construction-s02.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/engineering_sheets/S02_engineering_sheet.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2800,
+    "height": 1710,
+    "sha256": "836227d4cf6f8470a6b64cc8a0d271c9e181a77b2d2ad35647951e6793b1818d"
+  },
+  {
+    "file": "gallery/construction-s03.webp",
+    "source": "construction_site/04_quarry_earthworks/analysis/trimble_v1/figures/engineering_sheets/S03_engineering_sheet.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2800,
+    "height": 1698,
+    "sha256": "4f897beff52952c3724c107b02f53c08852f0320c75fdd2df84e82fa7218aab1"
+  },
+  {
+    "file": "gallery/road-orthophoto.webp",
+    "source": "road_mapping/02_road_mapping/client_delivery/_figure_cache/orthophoto_preview.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1448,
+    "height": 1700,
+    "sha256": "e9c3111781f436b7de9db2c82501fe2f8aae783aa782b671b6f72dec49cc3e9a"
+  },
+  {
+    "file": "gallery/road-geometry.webp",
+    "source": "road_mapping/02_road_mapping/client_delivery/_figure_cache/road_geometry_overlay.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1278,
+    "height": 1526,
+    "sha256": "d8d8fbb29fe179ed772e80d0aec255f5902fcb4a89a3f387c93cb0d6ac494e25"
+  },
+  {
+    "file": "gallery/road-qc.webp",
+    "source": "road_mapping/02_road_mapping/client_delivery/_figure_cache/road_final_qc_map.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1212,
+    "height": 1462,
+    "sha256": "c0dbac34790e688776950a514618ae376005900b225afd4db1afe8373adddb66"
+  },
+  {
+    "file": "gallery/road-width.webp",
+    "source": "road_mapping/02_road_mapping/client_delivery/_figure_cache/road_final_width_profile.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1722,
+    "height": 565,
+    "sha256": "42b63c1d4c76a38872be95abc79a9b80d42903f7e8bf0274ef74c3d26e48e42e"
+  },
+  {
+    "file": "gallery/agro-eight.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-06/figures/all_eight_samples.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2619,
+    "height": 1538,
+    "sha256": "10c081ddcfa639f1f8c48b8eb3891c42c0aab788b858472be37096e5cfebf526"
+  },
+  {
+    "file": "gallery/agro-coverage.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-06/figures/coverage_by_scene.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2302,
+    "height": 1161,
+    "sha256": "2f3d2189d0c619294dc64b85eaa417074ec19dd4e8f34d2aeadbe9d8f46f302f"
+  },
+  {
+    "file": "gallery/agro-0395.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-06/figures/2023-06-06_0395_report_example.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2339,
+    "height": 911,
+    "sha256": "c9fa58bc18ade5ed396b6ca9e698ac20d6f1ae6d97f1bca413d355918dc50bcb"
+  },
+  {
+    "file": "gallery/agro-0460.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-06/figures/2023-06-06_0460_report_example.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2339,
+    "height": 911,
+    "sha256": "58b84f6fb9881386413c230ccf6618ad3d8eaf3e7d037eeadee2c4b066dc2b2d"
+  },
+  {
+    "file": "gallery/agro-1043.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-06/figures/2023-06-06_1043_report_example.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2339,
+    "height": 911,
+    "sha256": "5030836993cc5627da9d60083d534b0c41b712634b652ee45636cefa38b71dfd"
+  },
+  {
+    "file": "gallery/agro-later.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-15_train/figures/adult_maize_montage.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1941,
+    "height": 833,
+    "sha256": "197e3a6b45e30f79c0051b9409dac376f4b3b34d349973b8d39347da7f2b03a4"
+  },
+  {
+    "file": "gallery/land-clearing.webp",
+    "source": "land_terrain/01_orthophoto/bellus_final/assets/clearing_preview.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1014,
+    "height": 1322,
+    "sha256": "e71f0b29afef81e2530e08c12b3bcb750aadd33730ba0a6aa7190be8ddd17022"
+  },
+  {
+    "file": "gallery/land-elevation.webp",
+    "source": "land_terrain/01_orthophoto/terrain_analysis/results_v2/elevation_map.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 922,
+    "height": 1486,
+    "sha256": "73b62cc9e258acfd71109213bc2991aee582c4247f74b3341066c4c9713d76d6"
+  },
+  {
+    "file": "gallery/land-slope.webp",
+    "source": "land_terrain/01_orthophoto/terrain_analysis/results_v2/slope_map.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 906,
+    "height": 1486,
+    "sha256": "a915871ec380095cce14e6005dadb6adc53f9548470882fbf8016c9d9a89abc6"
+  },
+  {
+    "file": "gallery/land-profile-locations.webp",
+    "source": "land_terrain/01_orthophoto/terrain_analysis/multiscale/profile_locations.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1290,
+    "height": 2059,
+    "sha256": "24bdb9d626399ed68c4bde82b1b049565b0713124f196099fbbb1a3d1c884b31"
+  },
+  {
+    "file": "gallery/land-profiles.webp",
+    "source": "land_terrain/01_orthophoto/terrain_analysis/multiscale/terrain_profiles.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2229,
+    "height": 1889,
+    "sha256": "738a5393e520fb63e45ca2ea742224e145ed54dcd37f351a21908d152d1aab69"
+  },
+  {
+    "file": "gallery/land-multiscale.webp",
+    "source": "land_terrain/01_orthophoto/terrain_analysis/multiscale/multiscale_slope_maps.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 2569,
+    "height": 1620,
+    "sha256": "044e3e4b7c398a542a46c8509c4ba5b5ef0a06766163147da4eae2365a95a8ad"
+  },
+  {
+    "file": "gallery/land-review.webp",
+    "source": "land_terrain/01_orthophoto/bellus_final/assets/review_zones.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1524,
+    "height": 1248,
+    "sha256": "4196f10a6fa07ecb5cf949bd662c5ea3e298b522128253fe4f451d0c525330d6"
+  },
+  {
+    "file": "gallery/land-scenarios.webp",
+    "source": "land_terrain/01_orthophoto/reports_golf/scenarios/scenario_sites_map_client.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 1350,
+    "height": 1494,
+    "sha256": "b5b3ecff13ebca9bb3b09520b9fdcf749dc2412a2c33b5756dc007ae4ea4af61"
+  },
+  {
+    "file": "gallery/agro-rgb.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-06/tile_images/2023-06-06_0395_rgb.png",
+    "transform": "resize + WebP; no analytical changes",
+    "width": 600,
+    "height": 600,
+    "sha256": "76f8f0dab4aaa520a3c236b886c3b439b7d8d4830e80c3d53321361a31609ad1"
+  },
+  {
+    "file": "gallery/agro-classes.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-06/figures/2023-06-06_0395_report_example.png",
+    "transform": "crop of existing centre class-map panel (880, 180, 1460, 759); WebP; no new segmentation",
+    "width": 580,
+    "height": 579,
+    "sha256": "e16e6926465e2bd05c13963dff42935cde386ebc147f6c3d3655bf658a127b31"
+  },
+  {
+    "file": "agro-card.webp",
+    "source": "agro_field/03_agro_field/demo/field_2023-06-06/figures/2023-06-06_0395_report_example.png",
+    "transform": "diptych of same-frame RGB and existing class-map panel; labels added",
+    "width": 1200,
+    "height": 740,
+    "sha256": "fd3a579c302d9041f069ebdaf9ff8531ce4de0585bdcee291a1c4756a0b82a0f"
+  },
+  {
+    "file": "land-card.webp",
+    "source": "land_terrain/01_orthophoto/bellus_final/assets/clearing_preview.png",
+    "transform": "crop of illustration for cover; complete figure retained in gallery",
+    "width": 1014,
+    "height": 1204,
+    "sha256": "98993e520f5d1523c55b538cfe9eb5c4bceb638404b3baddc9897003356f6742"
+  }
+]

@@ -1,0 +1,6 @@
+<dialog class="gallery-dialog" id="gallery-dialog" aria-labelledby="viewer-title" data-count-word="${count_word}">
+  <div class="viewer-toolbar"><h2 id="viewer-title">${title}</h2><div class="viewer-actions"><output id="viewer-count" aria-live="polite"></output><button type="button" class="viewer-zoom" data-viewer-zoom aria-pressed="false" aria-label="${zoom}">100%</button><button type="button" class="dialog-close" data-viewer-close aria-label="${close}" autofocus><span aria-hidden="true">×</span></button></div></div>
+  <div class="viewer-stage" id="viewer-stage" tabindex="0"></div>
+  <div class="viewer-caption" id="viewer-caption"></div>
+  <div class="viewer-bottom"><button type="button" class="viewer-nav" data-viewer-previous aria-label="${previous}"><span aria-hidden="true">←</span></button><a id="viewer-original" class="text-link" target="_blank" rel="noopener noreferrer">${original}<span aria-hidden="true">↗</span></a><button type="button" class="viewer-nav" data-viewer-next aria-label="${next}"><span aria-hidden="true">→</span></button></div>
+</dialog>

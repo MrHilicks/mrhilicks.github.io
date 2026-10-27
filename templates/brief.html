@@ -1,0 +1,13 @@
+<dialog class="brief-dialog" id="brief-dialog" aria-labelledby="brief-title" aria-describedby="brief-intro">
+  <div class="brief-heading"><span class="eyebrow">PROJECT BRIEF</span><button type="button" class="dialog-close" data-close-brief aria-label="${close}">×</button></div>
+  <h2 id="brief-title">${brief_title}</h2><p id="brief-intro">${brief_intro}</p>
+  <form id="brief-form">
+    <label for="brief-task">${brief_task}</label><textarea id="brief-task" name="task" rows="3" maxlength="1800" placeholder="${brief_task_placeholder}" required></textarea>
+    <label for="brief-data">${brief_data}</label><textarea id="brief-data" name="data" rows="2" maxlength="1200" placeholder="${brief_data_placeholder}"></textarea>
+    <label for="brief-output">${brief_output}</label><textarea id="brief-output" name="output" rows="2" maxlength="1200" placeholder="${brief_output_placeholder}"></textarea>
+    <div class="brief-actions"><button type="submit" class="button button--primary">${brief_copy}${arrow}</button>${mail}</div>
+    <p class="form-status" id="brief-status" role="status" aria-live="polite"></p>
+    <div id="brief-result-wrap" hidden><label for="brief-result">${brief_result}</label><textarea id="brief-result" rows="8" readonly></textarea></div>
+    <p class="form-privacy">${brief_privacy}</p>
+  </form>
+</dialog>

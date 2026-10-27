@@ -1,0 +1,420 @@
+{
+  "gallery/construction-overview.webp": {
+    "width": 1734,
+    "height": 1645,
+    "variants": [
+      {
+        "file": "gallery/construction-overview-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/construction-overview-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/construction-dsm.webp": {
+    "width": 1685,
+    "height": 1506,
+    "variants": [
+      {
+        "file": "gallery/construction-dsm-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/construction-dsm-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/construction-dtm.webp": {
+    "width": 1685,
+    "height": 1507,
+    "variants": [
+      {
+        "file": "gallery/construction-dtm-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/construction-dtm-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/construction-slopes.webp": {
+    "width": 1685,
+    "height": 1506,
+    "variants": [
+      {
+        "file": "gallery/construction-slopes-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/construction-slopes-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/construction-t01.webp": {
+    "width": 1595,
+    "height": 1317,
+    "variants": [
+      {
+        "file": "gallery/construction-t01-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/construction-contours.webp": {
+    "width": 1719,
+    "height": 1261,
+    "variants": [
+      {
+        "file": "gallery/construction-contours-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/construction-contours-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/construction-s01.webp": {
+    "width": 2800,
+    "height": 1732,
+    "variants": [
+      {
+        "file": "gallery/construction-s01-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/construction-s01-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/construction-s02.webp": {
+    "width": 2800,
+    "height": 1710,
+    "variants": [
+      {
+        "file": "gallery/construction-s02-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/construction-s02-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/construction-s03.webp": {
+    "width": 2800,
+    "height": 1698,
+    "variants": [
+      {
+        "file": "gallery/construction-s03-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/construction-s03-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/road-orthophoto.webp": {
+    "width": 1448,
+    "height": 1700,
+    "variants": [
+      {
+        "file": "gallery/road-orthophoto-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/road-geometry.webp": {
+    "width": 1278,
+    "height": 1526,
+    "variants": [
+      {
+        "file": "gallery/road-geometry-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/road-qc.webp": {
+    "width": 1212,
+    "height": 1462,
+    "variants": [
+      {
+        "file": "gallery/road-qc-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/road-width.webp": {
+    "width": 1722,
+    "height": 565,
+    "variants": [
+      {
+        "file": "gallery/road-width-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/road-width-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/agro-eight.webp": {
+    "width": 2619,
+    "height": 1538,
+    "variants": [
+      {
+        "file": "gallery/agro-eight-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/agro-eight-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/agro-coverage.webp": {
+    "width": 2302,
+    "height": 1161,
+    "variants": [
+      {
+        "file": "gallery/agro-coverage-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/agro-coverage-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/agro-0395.webp": {
+    "width": 2339,
+    "height": 911,
+    "variants": [
+      {
+        "file": "gallery/agro-0395-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/agro-0395-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/agro-0460.webp": {
+    "width": 2339,
+    "height": 911,
+    "variants": [
+      {
+        "file": "gallery/agro-0460-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/agro-0460-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/agro-1043.webp": {
+    "width": 2339,
+    "height": 911,
+    "variants": [
+      {
+        "file": "gallery/agro-1043-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/agro-1043-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/agro-later.webp": {
+    "width": 1941,
+    "height": 833,
+    "variants": [
+      {
+        "file": "gallery/agro-later-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/agro-later-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/land-clearing.webp": {
+    "width": 1014,
+    "height": 1322,
+    "variants": [
+      {
+        "file": "gallery/land-clearing-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/land-elevation.webp": {
+    "width": 922,
+    "height": 1486,
+    "variants": [
+      {
+        "file": "gallery/land-elevation-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/land-slope.webp": {
+    "width": 906,
+    "height": 1486,
+    "variants": [
+      {
+        "file": "gallery/land-slope-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/land-profile-locations.webp": {
+    "width": 1290,
+    "height": 2059,
+    "variants": [
+      {
+        "file": "gallery/land-profile-locations-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/land-profiles.webp": {
+    "width": 2229,
+    "height": 1889,
+    "variants": [
+      {
+        "file": "gallery/land-profiles-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/land-profiles-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/land-multiscale.webp": {
+    "width": 2569,
+    "height": 1620,
+    "variants": [
+      {
+        "file": "gallery/land-multiscale-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/land-multiscale-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/land-review.webp": {
+    "width": 1524,
+    "height": 1248,
+    "variants": [
+      {
+        "file": "gallery/land-review-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/land-scenarios.webp": {
+    "width": 1350,
+    "height": 1494,
+    "variants": [
+      {
+        "file": "gallery/land-scenarios-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/agro-rgb.webp": {
+    "width": 600,
+    "height": 600,
+    "variants": []
+  },
+  "gallery/agro-classes.webp": {
+    "width": 580,
+    "height": 579,
+    "variants": []
+  },
+  "agro-card.webp": {
+    "width": 1200,
+    "height": 740,
+    "variants": []
+  },
+  "land-card.webp": {
+    "width": 1014,
+    "height": 1204,
+    "variants": []
+  },
+  "construction-card.webp": {
+    "width": 1190,
+    "height": 630,
+    "variants": []
+  },
+  "stockpile-s02.webp": {
+    "width": 1800,
+    "height": 1100,
+    "variants": []
+  },
+  "road-width.webp": {
+    "width": 1722,
+    "height": 517,
+    "variants": []
+  },
+  "report-road.webp": {
+    "width": 715,
+    "height": 1011,
+    "variants": []
+  },
+  "road-geometry.webp": {
+    "width": 1278,
+    "height": 1481,
+    "variants": []
+  },
+  "road-quality.webp": {
+    "width": 1212,
+    "height": 1412,
+    "variants": []
+  },
+  "road-card.webp": {
+    "width": 440,
+    "height": 730,
+    "variants": []
+  },
+  "construction-overview.webp": {
+    "width": 1734,
+    "height": 1645,
+    "variants": []
+  },
+  "construction-models.webp": {
+    "width": 1348,
+    "height": 953,
+    "variants": []
+  },
+  "construction-dsm.webp": {
+    "width": 1685,
+    "height": 1506,
+    "variants": []
+  },
+  "report-construction.webp": {
+    "width": 758,
+    "height": 536,
+    "variants": []
+  },
+  "construction-cutout.webp": {
+    "width": 1200,
+    "height": 1086,
+    "variants": []
+  }
+}
