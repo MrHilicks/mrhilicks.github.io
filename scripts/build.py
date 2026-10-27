@@ -13,7 +13,7 @@ from urllib.parse import quote, urlparse
 
 ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / '_site'
-LANGS = ('en', 'ru')
+LANGS = ('ru', 'en')
 ARROW = '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M5 12h14m-6-6 6 6-6 6" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>'
 DIAGONAL = '<svg viewBox="0 0 24 24" fill="none" aria-hidden="true"><path d="M6 18 18 6M6 6h12v12" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></svg>'
 LOGO = '<svg viewBox="0 0 40 40" fill="none" aria-hidden="true"><path d="m20 5 15 9-15 9-15-9 15-9Z"/><path d="m5 21 15 9 15-9M5 28l15 9 15-9"/></svg>'
@@ -43,7 +43,7 @@ def load_json(name: str) -> dict:
 
 
 def page_path(lang: str, slug: str | None = None) -> str:
-    prefix = '' if lang == 'en' else 'ru/'
+    prefix = '' if lang == 'ru' else 'en/'
     return prefix + (f'projects/{slug}/' if slug else '')
 
 
@@ -171,7 +171,7 @@ class Page:
         if self.not_found:
             alternates=''
         else:
-            alternates+=f'<link rel="alternate" hreflang="x-default" href="{esc(site_url+"/"+page_path("en",self.slug))}">'
+            alternates+=f'<link rel="alternate" hreflang="x-default" href="{esc(site_url+"/"+page_path("ru",self.slug))}">'
         robots='index, follow' if self.config['indexable'] and indexable and not self.not_found else 'noindex, follow'
         fonts=''
         if self.config.get('use_google_fonts'):
@@ -339,7 +339,7 @@ def build() -> list[str]:
             write_page(path,page.finish(page.case_body(p),p['full_title']+' — '+page.display_name,p['summary'],p['image'],p['status']=='demo'))
             produced.append(path)
             if p['status']=='demo':sitemap.append(config['site_url'].rstrip('/')+'/'+page_path(lang,p['slug']))
-    t=translations['en'];page=Page(config,t,not_found=True)
+    t=translations['ru'];page=Page(config,t,not_found=True)
     error=f'<section class="error-page container"><p class="eyebrow">404 / NOT FOUND</p><h1>{esc(t["404_title"])}</h1><p>{esc(t["404_text"])}</p>{button(page.home(),t["404_cta"])}</section>'
     write_page('404.html',page.finish(error,'404 — '+config['name'],t['404_text'],indexable=False))
     produced.append('404.html')

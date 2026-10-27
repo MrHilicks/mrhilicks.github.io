@@ -580,3 +580,9 @@ input:focus-visible { outline: 3px solid #2e8d71; outline-offset: 5px; }
     overflow-wrap: normal;
     word-break: normal;
 }
+/* Корректные вертикальные отступы в кейсах */
+@media (max-width: 1150px) {
+    .case-body-grid {
+        row-gap: 36px;
+    }
+}
