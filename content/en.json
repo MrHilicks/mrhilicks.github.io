@@ -1,0 +1,615 @@
+{
+  "lang": "en",
+  "locale": "en_US",
+  "meta_title": "Vladislav Lyakh — Data & Aerial Imagery Analysis · ML / CV",
+  "meta_description": "Vladislav Lyakh: 5+ years in ML and Data Science. UAV imagery processing, orthomosaics, spatial measurements, segmentation and object analysis. Remote projects in Russia and CIS.",
+  "skip": "Skip to content",
+  "nav_label": "Main navigation",
+  "menu": "Menu",
+  "close": "Close",
+  "nav": [
+    [
+      "work",
+      "Projects"
+    ],
+    [
+      "expertise",
+      "Expertise"
+    ],
+    [
+      "process",
+      "Approach"
+    ],
+    [
+      "about",
+      "About"
+    ]
+  ],
+  "contact_nav": "Let’s talk",
+  "language_label": "Select language",
+  "hero_eyebrow": "VLADISLAV LYAKH / ML ENGINEER · DATA SCIENTIST",
+  "hero_title": "From aerial imagery",
+  "hero_accent": "to practical insights.",
+  "hero_text": "I process UAV imagery, create maps and extract information about objects. My approach combines geospatial analysis with over 5 years of industry experience in machine learning and Data Science.",
+  "hero_primary": "Explore projects",
+  "hero_secondary": "Discuss a project",
+  "hero_note": "Open for projects · Russia & CIS · remote",
+  "hero_panel_label": "FIELD NOTES / 001",
+  "ortho": "Orthomosaic",
+  "surface": "Surface model",
+  "hero_image_alt": "Annotated orthomosaic of the construction site, showing selected stockpiles and the T01 study area.",
+  "hero_surface_alt": "Digital surface model of the same construction site, extracted from the technical report.",
+  "hero_caption": "Construction site · imagery from 11 Sep 2019",
+  "hero_disclaimer": "Demonstration study · preliminary measurements",
+  "hero_images": "source images",
+  "hero_crs": "horizontal CRS",
+  "strip_label": "FROM DATA TO DELIVERABLES",
+  "strip_items": [
+    "Orthomosaics",
+    "Spatial measurements",
+    "Computer vision",
+    "Reports & tables"
+  ],
+  "work_eyebrow": "01 / SELECTED WORK",
+  "work_title": "The work, not just the promise.",
+  "work_intro": "Four independent demonstration projects: site and volume analysis, road geometry, crop segmentation and terrain assessment. Each includes visual results and clear limits of use.",
+  "case_link": "Explore case study",
+  "planned_link": "View project outline",
+  "demo_badge": "Demonstration study",
+  "planned_badge": "Planned study",
+  "expertise_eyebrow": "02 / EXPERTISE",
+  "expertise_title": "From imagery to answers.",
+  "expertise_intro": "Identify, measure and count what matters to your project. The task and the available data determine the approach.",
+  "services": [
+    {
+      "icon": "map",
+      "title": "Aerial imagery processing",
+      "text": "Turn UAV mission imagery into orthomosaics and maps that support further site analysis.",
+      "tags": [
+        "Photogrammetry",
+        "Orthomosaics",
+        "Geospatial data"
+      ]
+    },
+    {
+      "icon": "terrain",
+      "title": "Measurements & terrain",
+      "text": "Estimate areas and boundaries, analyse elevation and slopes, and assess selected stockpile volumes within the limits of the source data.",
+      "tags": [
+        "Area & volume",
+        "DSM / DTM",
+        "Profiles"
+      ]
+    },
+    {
+      "icon": "vision",
+      "title": "Computer vision",
+      "text": "Develop solutions for object detection, classification, segmentation and counting using machine learning and neural networks.",
+      "tags": [
+        "Segmentation",
+        "Detection",
+        "Object counting"
+      ]
+    },
+    {
+      "icon": "code",
+      "title": "Custom analytical solutions",
+      "text": "Build specialised image and data analysis algorithms, automate processing and prepare outputs for project-specific requirements.",
+      "tags": [
+        "Data Science",
+        "Machine learning",
+        "Automation"
+      ]
+    }
+  ],
+  "process_eyebrow": "03 / THE APPROACH",
+  "process_title": "Your question.\nYour data. Useful answers.",
+  "process_intro": "First, establish the answer you need and whether the imagery can support it. Then agree the scope and the deliverables.",
+  "steps": [
+    [
+      "Define the question",
+      "What needs to be identified, measured or counted? Agree the expected result and project boundaries."
+    ],
+    [
+      "Review the inputs",
+      "Assess UAV mission imagery: coverage, image quality, georeferencing and available survey control."
+    ],
+    [
+      "Process and analyse",
+      "Choose suitable methods, process the data and review the outputs, including uncertain areas."
+    ],
+    [
+      "Deliver the results",
+      "Orthomosaics, maps, PDF reports, tables or custom files — with useful explanations and limitations."
+    ]
+  ],
+  "process_note": "Remote data processing only. Flight operations and field surveying are not included.",
+  "deliver_eyebrow": "04 / THE DELIVERABLE",
+  "deliver_title": "Maps. Reports. Tables.\nBuilt around your task.",
+  "deliver_text": "Outputs should be understandable and ready for further work. These examples bring together maps, measurements, analysis visuals and conclusions. The file formats and delivery scope are agreed before a project starts.",
+  "report_language": "Reports are currently in Russian.",
+  "download": "Open report",
+  "pdf_label": "PDF · Russian",
+  "about_eyebrow": "05 / ABOUT",
+  "about_title": "Vladislav Lyakh.\nML, data & aerial imagery.",
+  "about_text": "I am a machine learning and data analysis specialist with over 5 years of industry experience. I work across Data Science, Machine Learning and Computer Vision, from framing a problem and preparing data to developing algorithms and checking results.",
+  "about_text_2": "I apply this approach to aerial imagery: mapping, spatial measurements and image-based object analysis. I work remotely with clients in Russia and CIS countries, communicating in Russian and English.",
+  "about_tags": [
+    "Data Science",
+    "Machine Learning",
+    "Computer Vision",
+    "Neural networks",
+    "Segmentation",
+    "Object detection"
+  ],
+  "about_note": "ML & DATA SCIENCE EXPERIENCE",
+  "about_quote": "Extract information. Check the result.",
+  "faq_eyebrow": "BEFORE WE START",
+  "faq_title": "A few practical answers.",
+  "faqs": [
+    [
+      "What types of project can we discuss?",
+      "UAV imagery processing, mapping, area and volume estimation, segmentation, object detection and counting. Custom image and data analysis requirements can be discussed separately."
+    ],
+    [
+      "What input data do you need?",
+      "UAV mission images and a short description of the task. Include acquisition parameters, coordinate-system information, RTK/PPK or ground control measurements where available. Start with a few examples; we can agree how to transfer the full dataset separately."
+    ],
+    [
+      "Do you provide drone flights or field surveys?",
+      "No. I provide remote processing and analysis. Image acquisition and ground measurements are handled by your team or a separate contractor."
+    ],
+    [
+      "What accuracy is achievable?",
+      "Requirements are agreed after reviewing the source data. Image resolution alone does not establish measurement accuracy. High-consequence applications require suitable georeferencing and independent control measurements."
+    ],
+    [
+      "What will I receive?",
+      "Orthomosaics or maps, PDF reports, analytical tables and agreed geospatial files. The exact scope and formats depend on the project. This website does not accept large source-file uploads."
+    ],
+    [
+      "Are these client commissions?",
+      "No. All four cases are independent demonstration studies using third-party source material. They illustrate processing methods and results, not completed commercial commissions or certified surveying documentation."
+    ]
+  ],
+  "contact_eyebrow": "AVAILABLE FOR COMMERCIAL PROJECTS",
+  "contact_title": "Let’s discuss your\nimagery and data.",
+  "contact_text": "Describe the question, the imagery you have and the output you need. Remote collaboration across Russia and CIS countries. Communication in English and Russian.",
+  "contact_cta": "Prepare a project brief",
+  "contact_email": "Send an email",
+  "contact_missing": "Direct contact details will be added. You can prepare and copy a brief now; this website does not send it.",
+  "contact_note": "Email opens in your mail app. Telegram opens a direct link. This website does not send messages or accept file uploads.",
+  "footer_line": "Machine learning. Aerial imagery. Practical answers.",
+  "footer_top": "Back to top",
+  "footer_demo": "Independent demonstration portfolio",
+  "brief_title": "Tell me about your project.",
+  "brief_intro": "Fill in the essentials. Copy the brief and share it through your preferred contact channel.",
+  "brief_task": "What is the task?",
+  "brief_task_placeholder": "For example: count objects or estimate areas from UAV images.",
+  "brief_data": "What data do you have?",
+  "brief_data_placeholder": "UAV mission images, acquisition settings, georeferencing…",
+  "brief_output": "What output do you need?",
+  "brief_output_placeholder": "For example: a PDF report and a table of volumes.",
+  "brief_copy": "Copy project brief",
+  "brief_mail": "Open in email app",
+  "brief_privacy": "This form runs only in your browser. Nothing is stored or submitted.",
+  "brief_result": "Your project brief",
+  "brief_ready": "Brief prepared. Copy it below. Nothing has been sent.",
+  "brief_copied": "Copied. Nothing has been sent.",
+  "brief_fallback": "Select the text below and copy it manually.",
+  "brief_subject": "Project: data and aerial imagery analysis",
+  "brief_required": "Please describe the task.",
+  "case_back": "All projects",
+  "case_objective": "The question",
+  "case_inputs": "Input data",
+  "case_method": "Work completed",
+  "case_outputs": "What the study contains",
+  "case_limits": "Accuracy & limitations",
+  "case_gallery": "Visuals & results",
+  "case_source": "Source material",
+  "case_next": "Next project",
+  "case_home": "Back to selected work",
+  "case_plan_notice": "Project outline — not a completed case study. No measurements or results are claimed.",
+  "case_plan_output": "Planned deliverables",
+  "case_plan_image": "Illustrative graphic — not measured data",
+  "case_report_note": "Original report in Russian; this page provides an English summary.",
+  "case_demo_notice": "An independent demonstration project using third-party source material. I did not perform the aerial survey. The scope of use and limitations are described below.",
+  "404_title": "This point is off the map.",
+  "404_text": "The page may have moved, or the address may be incorrect. Return to the portfolio to find your way.",
+  "404_cta": "Back to the portfolio",
+  "projects": [
+    {
+      "slug": "construction-site",
+      "number": "01",
+      "category": "CONSTRUCTION",
+      "status": "demo",
+      "title": "A site mapped.\nMaterials measured.",
+      "full_title": "Construction site & stockpile analysis",
+      "summary": "An orthomosaic, surface analysis and preliminary volumes for three selected stockpile objects.",
+      "image": "construction-card.webp",
+      "image_alt": "Close view of the mapped construction site and selected stockpile objects.",
+      "tags": [
+        "Site mapping",
+        "DSM / DTM",
+        "Volumetrics"
+      ],
+      "metric": "15.78 ha",
+      "metric_label": "imagery coverage — not parcel area",
+      "facts": [
+        [
+          "214",
+          "source images"
+        ],
+        [
+          "3",
+          "selected stockpile objects"
+        ],
+        [
+          "11 Sep 2019",
+          "imagery date"
+        ]
+      ],
+      "objective": "Describe the visible site surface and estimate the volumes of three selected objects relative to a local reference surface. This is not a complete inventory of the site.",
+      "inputs": "The report uses 214 aerial images from 11 September 2019 and processed orthomosaic, DSM and DTM products. The horizontal CRS is WGS 84 / UTM zone 54S (EPSG:32754). The vertical datum is not independently confirmed.",
+      "method": [
+        "Map the site and the selected areas of interest.",
+        "Inspect surface models, slopes and a comparatively uniform open area, T01.",
+        "Define local bases for S01, S02 and S03 and calculate volumes.",
+        "Inspect the effect of changing the reference surface and document limitations."
+      ],
+      "outputs": [
+        "Mapped coverage: 15.78 ha. This is not the cadastral parcel area.",
+        "Three selected objects: S01, S02 and S03; touching piles can form a single analysis object.",
+        "Preliminary combined volume: 113.16 m³, conditional on the selected boundaries and local bases.",
+        "An 11-page report with maps, object sheets and interpretation."
+      ],
+      "limits": "The source control network does not replace independent checkpoints. DSM/DTM grid spacing is not a statement of accuracy. Some structures and piles may remain in the DTM, so it is not treated as a ready-made stockpile base. Material density is unknown; volumes are not converted to tonnes.",
+      "source": "Final Construction_Site_Survey_and_Stockpiles.pdf dated 26 October 2026 and original project figures. Imagery acquired on 11 September 2019. Final engineering sheets are used; no new measurements were performed for the website.",
+      "report": "Construction_Site_Survey_and_Stockpiles.pdf",
+      "gallery": [
+        {
+          "file": "gallery/construction-overview.webp",
+          "caption": "Site overview with S01–S03 and T01. Map coverage is not a cadastral parcel area.",
+          "alt": "Site overview with S01–S03 and T01. Map coverage is not a cadastral parcel area.",
+          "wide": false
+        },
+        {
+          "file": "gallery/construction-dsm.webp",
+          "caption": "Digital surface model: visible elevations, including structures and stored materials.",
+          "alt": "Digital surface model: visible elevations, including structures and stored materials.",
+          "wide": false
+        },
+        {
+          "file": "gallery/construction-dtm.webp",
+          "caption": "Approximate terrain model. Remaining structures and stockpiles limit its use.",
+          "alt": "Approximate terrain model. Remaining structures and stockpiles limit its use.",
+          "wide": false
+        },
+        {
+          "file": "gallery/construction-slopes.webp",
+          "caption": "Surface-model slope map. Values depend on the source model and processing scale.",
+          "alt": "Surface-model slope map. Values depend on the source model and processing scale.",
+          "wide": false
+        },
+        {
+          "file": "gallery/construction-t01.webp",
+          "caption": "T01: a selected terrain-analysis area, not a construction-suitability conclusion.",
+          "alt": "T01: a selected terrain-analysis area, not a construction-suitability conclusion.",
+          "wide": false
+        },
+        {
+          "file": "gallery/construction-contours.webp",
+          "caption": "T01 elevations and contours: a closer view of the local terrain.",
+          "alt": "T01 elevations and contours: a closer view of the local terrain.",
+          "wide": false
+        },
+        {
+          "file": "gallery/construction-s01.webp",
+          "caption": "S01 final engineering sheet: plan, height above a local base, projections and calculated quantities.",
+          "alt": "S01 final engineering sheet: plan, height above a local base, projections and calculated quantities.",
+          "wide": true
+        },
+        {
+          "file": "gallery/construction-s02.webp",
+          "caption": "S02 final engineering sheet for a stockpile group. Volume depends on the chosen boundary and base; the 3D view has vertical exaggeration.",
+          "alt": "S02 final engineering sheet for a stockpile group. Volume depends on the chosen boundary and base; the 3D view has vertical exaggeration.",
+          "wide": true
+        },
+        {
+          "file": "gallery/construction-s03.webp",
+          "caption": "S03 final engineering sheet for an elongated stockpile group. Profiles and a 3D view complement the plan.",
+          "alt": "S03 final engineering sheet for an elongated stockpile group. Profiles and a 3D view complement the plan.",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "slug": "road-geometry",
+      "number": "02",
+      "category": "INFRASTRUCTURE",
+      "status": "demo",
+      "title": "A road corridor,\nunderstood in detail.",
+      "full_title": "Helenenschacht road corridor",
+      "summary": "The visible road footprint, centreline and width variation, with areas requiring additional checks.",
+      "image": "road-card.webp",
+      "image_alt": "Aerial view of a narrow road running through a green landscape.",
+      "tags": [
+        "Road footprint",
+        "Width analysis",
+        "Quality checks"
+      ],
+      "metric": "141.69 m",
+      "metric_label": "observed road length",
+      "facts": [
+        [
+          "599.60 m²",
+          "road coverage"
+        ],
+        [
+          "4.31 m",
+          "median width"
+        ],
+        [
+          "25 Oct 2026",
+          "report date"
+        ]
+      ],
+      "objective": "Describe the geometry of the road surface visible within the imagery: footprint, observed centreline and width variation. The analysis does not diagnose pavement defects.",
+      "inputs": "An existing orthomosaic of the Helenenschacht study area and derived road geometry. The reported extent is limited to the visible imagery footprint.",
+      "method": [
+        "Define the observed road footprint and centreline.",
+        "Measure width along the observed axis.",
+        "Separate accepted sections, areas requiring review and unmeasured edges.",
+        "Report the mapped geometry together with the limits of interpretation."
+      ],
+      "outputs": [
+        "Observed centreline: 141.69 m; road footprint: 599.60 m².",
+        "Median width: 4.31 m; P5–P95 interval: 3.97–4.84 m.",
+        "Accepted length: 112.00 m; review sections: 20.00 m; unmeasured edges: 9.69 m.",
+        "A six-page report with geometry, width variation and quality notes."
+      ],
+      "limits": "Absolute coordinate accuracy has not been established with independent measurements. Review areas are not confirmed road defects. The work does not replace engineering surveys, as-built documentation or an assessment of road condition.",
+      "source": "Final Helenenschacht_Road_Mapping_Report(3).pdf dated 25 October 2026 and original client_delivery figures. The final quality-control map and width profile are used; no new measurements were performed for the website.",
+      "report": "Helenenschacht_Road_Mapping_Report.pdf",
+      "gallery": [
+        {
+          "file": "gallery/road-orthophoto.webp",
+          "caption": "Road-corridor orthomosaic. No assessment is made beyond the imagery footprint.",
+          "alt": "Road-corridor orthomosaic. No assessment is made beyond the imagery footprint.",
+          "wide": false
+        },
+        {
+          "file": "gallery/road-geometry.webp",
+          "caption": "Boundary, centreline and cross-sections of the visible road surface.",
+          "alt": "Boundary, centreline and cross-sections of the visible road surface.",
+          "wide": false
+        },
+        {
+          "file": "gallery/road-qc.webp",
+          "caption": "Final map of accepted sections, review zones and unmeasured edges. This is not a road-defect map.",
+          "alt": "Final map of accepted sections, review zones and unmeasured edges. This is not a road-defect map.",
+          "wide": false
+        },
+        {
+          "file": "gallery/road-width.webp",
+          "caption": "Final width profile after review. Flagged points require checking and should not be read as confirmed changes in road geometry.",
+          "alt": "Final width profile after review. Flagged points require checking and should not be read as confirmed changes in road geometry.",
+          "wide": true
+        }
+      ]
+    },
+    {
+      "slug": "agriculture",
+      "number": "03",
+      "category": "AGRICULTURE",
+      "status": "demo",
+      "title": "Crops and weeds.\nFrom pixels to patterns.",
+      "full_title": "Crop and weed cover analysis",
+      "summary": "RGB imagery represented as maize, weeds and open surface. A sample-based assessment of eight frames, not a map of the entire field.",
+      "image": "agro-card.webp",
+      "image_alt": "Two views of one frame: an RGB maize image and its cover-class map.",
+      "tags": [
+        "Computer vision",
+        "Segmentation",
+        "Vegetation cover"
+      ],
+      "objective": "Demonstrate how crop images can become class maps and quantitative descriptions of cover. Separate crop plants, weeds and open surface within selected image patches.",
+      "inputs": "Eight RGB patches of a maize field acquired on 6 June 2023 from WeedsGalore. Nominal scale: 2.5 mm per pixel. Additional images from 15 June show different patches and are excluded from the primary assessment.",
+      "method": [
+        "Prepare individual images and visual representations of three cover classes.",
+        "Calculate per-image class shares and the aggregate for eight frames.",
+        "Show the original image, class map and overlay together.",
+        "Prepare a report, keeping the 15 June examples separate."
+      ],
+      "outputs": [
+        "Nominal combined area of the eight frames: 18.00 m².",
+        "Published sample estimates: maize 3.32%, weeds 5.82%, open surface 90.86%.",
+        "Segmentation examples, per-image cover distribution and a seven-page PDF report."
+      ],
+      "limits": "Patch coordinates are unknown. This is neither an orthomosaic nor a survey of the whole field. Areas use a nominal pixel scale. The 6 and 15 June images do not repeat the same locations. Visual examples are not evidence of independent model performance and do not replace field checks.",
+      "source": "WeedsGalore — Ekin Celikkan et al., WACV 2025; source dataset licensed under CC BY 4.0. Imagery was adapted for this demonstration study; only size and format were changed for the website. Numerical results come from Agro_Field_Monitoring_Portfolio_Final(1).pdf.",
+      "gallery": [
+        {
+          "file": "gallery/agro-eight.webp",
+          "caption": "Eight separate images from 6 June 2023, shown without their geographical arrangement.",
+          "alt": "Eight separate images from 6 June 2023, shown without their geographical arrangement.",
+          "wide": true
+        },
+        {
+          "file": "gallery/agro-coverage.webp",
+          "caption": "Open-surface, maize and weed shares for the selected images, not the whole field.",
+          "alt": "Open-surface, maize and weed shares for the selected images, not the whole field.",
+          "wide": true
+        },
+        {
+          "file": "gallery/agro-0395.webp",
+          "caption": "Patch 0395: original image, class map and overlay. All three panels represent the same frame.",
+          "alt": "Patch 0395: original image, class map and overlay. All three panels represent the same frame.",
+          "wide": true
+        },
+        {
+          "file": "gallery/agro-0460.webp",
+          "caption": "Patch 0460: an example of separating maize and weed cover.",
+          "alt": "Patch 0460: an example of separating maize and weed cover.",
+          "wide": true
+        },
+        {
+          "file": "gallery/agro-1043.webp",
+          "caption": "Patch 1043: a different cover pattern within the same primary 6 June sample.",
+          "alt": "Patch 1043: a different cover pattern within the same primary 6 June sample.",
+          "wide": true
+        },
+        {
+          "file": "gallery/agro-later.webp",
+          "caption": "Examples of more developed plants on 15 June. These are different patches, not a time-series measurement of the same locations.",
+          "alt": "Examples of more developed plants on 15 June. These are different patches, not a time-series measurement of the same locations.",
+          "wide": true
+        }
+      ],
+      "metric": "8 frames",
+      "metric_label": "primary sample from 6 June 2023",
+      "facts": [
+        [
+          "18.00 m²",
+          "nominal sum of frame areas"
+        ],
+        [
+          "5.82%",
+          "weed cover in the sample"
+        ],
+        [
+          "6 Jun 2023",
+          "primary acquisition date"
+        ]
+      ],
+      "source_url": "https://github.com/GFZ/weedsgalore",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "report": "Agro_Field_Monitoring_Portfolio_Final.pdf",
+      "comparison": {
+        "before": "gallery/agro-rgb.webp",
+        "after": "gallery/agro-classes.webp"
+      }
+    },
+    {
+      "slug": "land-terrain",
+      "number": "04",
+      "category": "LAND & TERRAIN",
+      "status": "demo",
+      "title": "Open land.\nTerrain and constraints.",
+      "full_title": "Bellus: open land and terrain assessment",
+      "summary": "Identify a central clearing, analyse elevations and slopes, and outline preliminary infrastructure scenarios and areas requiring further checks.",
+      "image": "land-card.webp",
+      "image_alt": "A Bellus orthomosaic with the central open clearing outlined within surrounding woodland.",
+      "tags": [
+        "Clearing boundary",
+        "Slopes & profiles",
+        "Preliminary assessment"
+      ],
+      "objective": "Assess the open part of a site for a hypothetical golf-club scenario: where open surface is visible, how the terrain varies, and which areas need ground investigation.",
+      "inputs": "Bellus demonstration materials: an orthomosaic, derived elevation data and the central-clearing boundary. The client scenario is hypothetical; the analyst did not conduct the aerial survey.",
+      "method": [
+        "Delineate the open clearing while excluding individual visible woody features.",
+        "Assess elevations, slopes and longitudinal and cross-sectional profiles.",
+        "Compare detailed and generalised terrain views.",
+        "Prepare preliminary scenarios and highlight areas needing additional checks."
+      ],
+      "outputs": [
+        "Imagery coverage: 25.98 ha; delineated clearing: 2.033 ha.",
+        "Cross-slope is the main identified constraint. Published estimates: P2–P98 range 8.13 m; median slope 6.69°.",
+        "Elevation and slope maps, profiles and preliminary scenario layouts.",
+        "A six-page PDF report for early-stage discussion."
+      ],
+      "limits": "Elevation accuracy has not been independently confirmed. The clearing outline is not a cadastral boundary, and visible open land does not establish suitability or permission for construction. Review zones are not proven defects. Scenario areas may overlap and must not be added together.",
+      "source": "Bellus_Client_Report_Portfolio.pdf and source figures from the Bellus demonstration study. Website copies were prepared without new surveying calculations. Original acquisition attribution and redistribution conditions still need checking before public release.",
+      "gallery": [
+        {
+          "file": "gallery/land-clearing.webp",
+          "caption": "Central open clearing with visible woody features excluded. This is not a legal parcel boundary.",
+          "alt": "Central open clearing with visible woody features excluded. This is not a legal parcel boundary.",
+          "wide": false
+        },
+        {
+          "file": "gallery/land-elevation.webp",
+          "caption": "Elevation surface within the clearing. Absolute elevation accuracy has not been independently confirmed.",
+          "alt": "Elevation surface within the clearing. Absolute elevation accuracy has not been independently confirmed.",
+          "wide": false
+        },
+        {
+          "file": "gallery/land-slope.webp",
+          "caption": "Detailed slope map. Local values depend on the source elevation surface.",
+          "alt": "Detailed slope map. Local values depend on the source elevation surface.",
+          "wide": false
+        },
+        {
+          "file": "gallery/land-profile-locations.webp",
+          "caption": "Longitudinal and cross-profile locations on the elevation surface.",
+          "alt": "Longitudinal and cross-profile locations on the elevation surface.",
+          "wide": false
+        },
+        {
+          "file": "gallery/land-profiles.webp",
+          "caption": "Longitudinal and cross-sectional profiles provide another view of the terrain variation.",
+          "alt": "Longitudinal and cross-sectional profiles provide another view of the terrain variation.",
+          "wide": true
+        },
+        {
+          "file": "gallery/land-multiscale.webp",
+          "caption": "Comparison of detailed and generalised slope views. Smoothing does not remove uncertainty in the source data.",
+          "alt": "Comparison of detailed and generalised slope views. Smoothing does not remove uncertainty in the source data.",
+          "wide": true
+        },
+        {
+          "file": "gallery/land-review.webp",
+          "caption": "Areas requiring further checks across the imagery footprint. Highlighting does not prove defects or land unsuitability.",
+          "alt": "Areas requiring further checks across the imagery footprint. Highlighting does not prove defects or land unsuitability.",
+          "wide": false
+        },
+        {
+          "file": "gallery/land-scenarios.webp",
+          "caption": "Preliminary layout scenarios. Zones can overlap; areas from different scenarios must not be added.",
+          "alt": "Preliminary layout scenarios. Zones can overlap; areas from different scenarios must not be added.",
+          "wide": false
+        }
+      ],
+      "metric": "2.033 ha",
+      "metric_label": "delineated open clearing",
+      "facts": [
+        [
+          "25.98 ha",
+          "imagery coverage"
+        ],
+        [
+          "8.13 m",
+          "P2–P98 elevation range"
+        ],
+        [
+          "6.69°",
+          "estimated median slope"
+        ]
+      ],
+      "report": "Bellus_Client_Report_Portfolio.pdf"
+    }
+  ],
+  "brand_line": "ML · CV · AERIAL IMAGERY",
+  "experience_value": "5+",
+  "experience_label": "years in machine learning and data analysis",
+  "contact_telegram": "Message on Telegram",
+  "gallery_heading": "A closer look at the results.",
+  "gallery_intro": "Open an image for a detailed view. Labels inside the original figures remain in Russian; the descriptions below are translated.",
+  "gallery_open": "Open image",
+  "gallery_title": "Image viewer",
+  "gallery_previous": "Previous image",
+  "gallery_next": "Next image",
+  "gallery_original": "Open image file",
+  "gallery_count_word": "of",
+  "gallery_jump": "Explore the images",
+  "comparison_title": "One image. Two views.",
+  "comparison_intro": "Move the slider: the original RGB image is on the left, the class map of the same frame is on the right. These are visualisations of one image, not different acquisition dates.",
+  "comparison_before": "RGB image",
+  "comparison_after": "Class map",
+  "comparison_control": "Original image share",
+  "comparison_note": "Frame 0395, 6 June 2023. This class-map demonstration is not an independent evaluation of ML model quality.",
+  "source_link_label": "Original source",
+  "license_link_label": "Source-data licence",
+  "gallery_zoom": "Actual size / fit"
+}

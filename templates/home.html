@@ -1,0 +1,43 @@
+<section class="hero" aria-labelledby="hero-title">
+  <div class="container hero-grid">
+    <div class="hero-copy"><p class="eyebrow hero-eyebrow"><span class="status-dot" aria-hidden="true"></span>${hero_eyebrow}</p>
+      <h1 id="hero-title">${hero_title}<span>${hero_accent}</span></h1>
+      <p class="hero-description">${hero_text}</p><div class="hero-actions">${primary}${secondary}</div>
+      <p class="hero-note"><span aria-hidden="true">↳</span>${hero_note}</p>
+    </div>
+    <figure class="map-card">
+      <div class="map-toolbar"><span class="micro">${hero_panel_label}</span><span class="map-cross" aria-hidden="true">+</span></div>
+      <div class="map-stage"><div class="map-grid" aria-hidden="true"></div><span class="map-north" aria-hidden="true">N<span>↑</span></span>
+        <div class="map-mode-panel" id="map-ortho">${hero_image}</div>
+        <div class="map-mode-panel" id="map-surface" hidden>${hero_surface}</div>
+        <div class="map-mode-controls" data-map-controls hidden aria-label="${hero_panel_label}"><button type="button" data-map="ortho" aria-pressed="true" aria-controls="map-ortho">${ortho}</button><button type="button" data-map="surface" aria-pressed="false" aria-controls="map-surface">${surface}</button></div>
+      </div>
+      <figcaption><span>${hero_caption}</span><small>${hero_disclaimer}</small></figcaption>
+      <div class="map-meta"><div><strong>214</strong><span>${hero_images}</span></div><div><strong>EPSG:32754</strong><span>${hero_crs}</span></div><span class="map-mark" aria-hidden="true">⌖</span></div>
+    </figure>
+  </div>
+  <div class="container hero-bottom"><span class="micro">${strip_label}</span><a href="#work" aria-label="${hero_primary}"><span aria-hidden="true">↓</span></a></div>
+</section>
+<div class="output-strip"><div class="container">${strip}</div></div>
+<section class="section work-section container" id="work" aria-labelledby="work-title">
+  <div class="section-heading"><div><p class="eyebrow">${work_eyebrow}</p><h2 id="work-title">${work_title}</h2></div><p>${work_intro}</p></div>
+  <div class="project-grid">${cards}</div>
+</section>
+<section class="section expertise-section" id="expertise" aria-labelledby="expertise-title"><div class="container">
+  <div class="section-heading"><div><p class="eyebrow">${expertise_eyebrow}</p><h2 id="expertise-title">${expertise_title}</h2></div><p>${expertise_intro}</p></div>
+  <div class="service-list">${services}</div>
+</div></section>
+<section class="section process-section" id="process" aria-labelledby="process-title"><div class="container">
+  <div class="section-heading"><div><p class="eyebrow">${process_eyebrow}</p><h2 id="process-title">${process_title}</h2></div><p>${process_intro}</p></div>
+  <ol class="process-steps">${steps}</ol><p class="process-note">${process_note}</p>
+</div></section>
+<section class="section deliver-section container" id="deliverables" aria-labelledby="deliver-title">
+  <div class="report-display" aria-hidden="true"><div class="report-grid-decoration"></div>${report_construction}${report_road}<span class="report-stamp">ANALYSIS → REPORT</span></div>
+  <div class="deliver-copy"><p class="eyebrow">${deliver_eyebrow}</p><h2 id="deliver-title">${deliver_title}</h2><p>${deliver_text}</p><div class="report-links">${report_links}</div><p class="muted small">${report_language}</p></div>
+</section>
+<section class="section about-section" id="about" aria-labelledby="about-title"><div class="container about-grid">
+  <div class="about-note"><div class="about-experience"><strong>${experience_value}</strong><span>${experience_label}</span></div><span class="eyebrow">${about_note}</span><blockquote>${about_quote}</blockquote><span class="about-signature">${name}<span aria-hidden="true">↗</span></span></div>
+  <div><p class="eyebrow">${about_eyebrow}</p><h2 id="about-title">${about_title}</h2><p>${about_text}</p><p class="muted">${about_text_2}</p>${about_tags}</div>
+</div></section>
+<section class="section faq-section container" aria-labelledby="faq-title"><div><p class="eyebrow">${faq_eyebrow}</p><h2 id="faq-title">${faq_title}</h2></div><div class="faqs">${faqs}</div></section>
+${contact}

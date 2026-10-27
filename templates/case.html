@@ -1,0 +1,19 @@
+<section class="case-intro container">
+  <a class="text-link case-back" href="${back_url}"><span aria-hidden="true">←</span>${back}</a>
+  <div class="case-heading"><div><p class="eyebrow">${category} / ${badge}</p><h1>${title}</h1></div><p>${summary}</p></div>
+  <figure class="case-cover">${hero}<figcaption>${caption}</figcaption></figure>
+  <div class="case-actions">${gallery_jump}${report}</div>
+  ${facts}<p class="case-notice">${notice}</p>
+</section>
+<div class="container case-body-grid">
+  <article class="case-body"><section><p class="eyebrow">01 / ${objective_label}</p><h2>${objective_label}</h2><p>${objective}</p></section>
+    <section><p class="eyebrow">02 / ${inputs_label}</p><h2>${inputs_label}</h2><p>${inputs}</p></section>
+    <section><p class="eyebrow">03 / ${method_label}</p><h2>${method_label}</h2><ol class="case-method">${method}</ol></section>
+    <section><p class="eyebrow">04 / ${outputs_label}</p><h2>${outputs_label}</h2><ul class="case-outputs">${outputs}</ul></section>
+  </article>
+  <aside class="case-sidebar"><div class="case-limit-box"><span class="limit-symbol" aria-hidden="true">↳</span><h2>${limits_label}</h2><p>${limits}</p>${report}<p class="small muted">${report_note}</p></div><div class="source-note"><h3>${source_label}</h3><p>${source}</p><div class="source-links">${source_links}</div></div></aside>
+</div>
+${comparison}
+${gallery}
+<div class="container next-project"><p class="eyebrow">${next_label}</p><a href="${next_url}"><span>${next_title}</span>${arrow}</a></div>
+${contact}

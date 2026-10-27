@@ -1,0 +1,17 @@
+{
+  "name": "Владислав Лях",
+  "site_url": "https://mrhilicks.github.io",
+  "email": "hilicks@gmail.com",
+  "github_url": "https://github.com/MrHilicks",
+  "telegram_url": "https://t.me/hilicks",
+  "linkedin_url": "",
+  "use_google_fonts": true,
+  "copyright_year": 2026,
+  "indexable": false,
+  "names": {
+    "en": "Vladislav Lyakh",
+    "ru": "Владислав Лях"
+  },
+  "handle": "MrHilicks",
+  "version": "1.1.0"
+}

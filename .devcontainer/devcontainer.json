@@ -1,0 +1,23 @@
+{
+  "name": "MrHilicks portfolio",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.12-bookworm",
+  "forwardPorts": [
+    8000
+  ],
+  "portsAttributes": {
+    "8000": {
+      "label": "Portfolio preview",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "python3 scripts/build.py",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.tabSize": 2,
+        "files.insertFinalNewline": true
+      },
+      "extensions": []
+    }
+  }
+}
