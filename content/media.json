@@ -416,5 +416,100 @@
     "width": 1200,
     "height": 1086,
     "variants": []
+  },
+  "thermal-card.webp": {
+    "width": 1200,
+    "height": 750,
+    "variants": [
+      {
+        "file": "thermal-card-720.webp",
+        "width": 720
+      }
+    ]
+  },
+  "gallery/thermal-01_parking_before_after.webp": {
+    "width": 1800,
+    "height": 962,
+    "variants": [
+      {
+        "file": "gallery/thermal-01_parking_before_after-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/thermal-01_parking_before_after-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/thermal-02_people_day_night.webp": {
+    "width": 1800,
+    "height": 975,
+    "variants": [
+      {
+        "file": "gallery/thermal-02_people_day_night-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/thermal-02_people_day_night-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/thermal-03_selected_zone_count.webp": {
+    "width": 1800,
+    "height": 1063,
+    "variants": [
+      {
+        "file": "gallery/thermal-03_selected_zone_count-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/thermal-03_selected_zone_count-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/thermal-04_small_objects_detail.webp": {
+    "width": 1800,
+    "height": 894,
+    "variants": [
+      {
+        "file": "gallery/thermal-04_small_objects_detail-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/thermal-04_small_objects_detail-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "gallery/thermal-05_operator_review.webp": {
+    "width": 1800,
+    "height": 1037,
+    "variants": [
+      {
+        "file": "gallery/thermal-05_operator_review-720.webp",
+        "width": 720
+      },
+      {
+        "file": "gallery/thermal-05_operator_review-1400.webp",
+        "width": 1400
+      }
+    ]
+  },
+  "thermal-before.webp": {
+    "width": 640,
+    "height": 512,
+    "variants": []
+  },
+  "thermal-after.webp": {
+    "width": 1120,
+    "height": 895,
+    "variants": [
+      {
+        "file": "thermal-after-720.webp",
+        "width": 720
+      }
+    ]
   }
 }

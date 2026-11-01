@@ -586,3 +586,6 @@ input:focus-visible { outline: 3px solid #2e8d71; outline-offset: 5px; }
         row-gap: 36px;
     }
 }
+
+/* Thermal case: retain both complete frames in the cover. */
+.case-cover .case-hero-image[data-media-name="thermal-card.webp"] { object-fit: contain; background: var(--night-deep); }

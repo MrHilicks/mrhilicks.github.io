@@ -246,5 +246,93 @@
     "width": 1014,
     "height": 1204,
     "sha256": "98993e520f5d1523c55b538cfe9eb5c4bceb638404b3baddc9897003356f6742"
+  },
+  {
+    "file": "thermal-card.webp",
+    "source": "practical_portfolio_outputs/annotated_frames: parking and night people",
+    "transform": "Two actual annotated frames composed on a neutral background; no new detections or text added",
+    "width": 1200,
+    "height": 750,
+    "sha256": "fc1cafad5afff43482e6fec1f976844fd225b2d49a79e327328fc0caba130d45",
+    "attribution": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0; model annotations and layout by Vladislav Lyakh.",
+    "source_url": "https://zenodo.org/records/7633134",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "file": "gallery/thermal-01_parking_before_after.webp",
+    "source": "practical_portfolio_outputs/figures/01_parking_before_after.png",
+    "transform": "resize and WebP; original model boxes preserved",
+    "width": 1800,
+    "height": 962,
+    "sha256": "a0ee62cf53854f79175d9daf902ccc44975eb0d6cd53554d82e8635a4f942ea1",
+    "attribution": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0; model annotations and layout by Vladislav Lyakh.",
+    "source_url": "https://zenodo.org/records/7633134",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "file": "gallery/thermal-02_people_day_night.webp",
+    "source": "practical_portfolio_outputs/figures/02_people_day_night.png",
+    "transform": "resize and WebP; original model boxes preserved",
+    "width": 1800,
+    "height": 975,
+    "sha256": "964275bc331d82c91e24bd68424c90a88ee692990c37c909dd9e163bf1a59b14",
+    "attribution": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0; model annotations and layout by Vladislav Lyakh.",
+    "source_url": "https://zenodo.org/records/7633134",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "file": "gallery/thermal-03_selected_zone_count.webp",
+    "source": "practical_portfolio_outputs/figures/03_selected_zone_count.png",
+    "transform": "resize and WebP; original model boxes preserved",
+    "width": 1800,
+    "height": 1063,
+    "sha256": "7d04dd8a60140171022c0c5ba5e4f600280473cfc186accbc93e4bb79b2e524b",
+    "attribution": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0; model annotations and layout by Vladislav Lyakh.",
+    "source_url": "https://zenodo.org/records/7633134",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "file": "gallery/thermal-04_small_objects_detail.webp",
+    "source": "practical_portfolio_outputs/figures/04_small_objects_detail.png",
+    "transform": "resize and WebP; original model boxes preserved",
+    "width": 1800,
+    "height": 894,
+    "sha256": "3ddfde0fb27268b094fc9d9ec9fe6c2b54b7b567336b2d9dcbe22e240209b155",
+    "attribution": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0; model annotations and layout by Vladislav Lyakh.",
+    "source_url": "https://zenodo.org/records/7633134",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "file": "gallery/thermal-05_operator_review.webp",
+    "source": "practical_portfolio_outputs/figures/05_operator_review.png",
+    "transform": "resize and WebP; original model boxes preserved",
+    "width": 1800,
+    "height": 1037,
+    "sha256": "1847add5b09fb46e22436da3658b4c6fe0b17f865dbf4095b4bf8e2f2db001c4",
+    "attribution": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0; model annotations and layout by Vladislav Lyakh.",
+    "source_url": "https://zenodo.org/records/7633134",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "file": "thermal-before.webp",
+    "source": "HIT-UAV v1.2.1 / 0_110_40_0_08376.jpg",
+    "transform": "resize and WebP; original model boxes preserved",
+    "width": 640,
+    "height": 512,
+    "sha256": "e2bc259002b7b29cb58626e430a5fc235f222236083fed1a89999686a89c8f9d",
+    "attribution": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0; model annotations and layout by Vladislav Lyakh.",
+    "source_url": "https://zenodo.org/records/7633134",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "file": "thermal-after.webp",
+    "source": "practical_portfolio_outputs/annotated_frames/0_110_40_0_08376_detected.png",
+    "transform": "resize and WebP; original model boxes preserved",
+    "width": 1120,
+    "height": 895,
+    "sha256": "825dc2b86209529a07d4ccc1a867d1a78428222e7a563c1f4f03e1cfa993bc8e",
+    "attribution": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0; model annotations and layout by Vladislav Lyakh.",
+    "source_url": "https://zenodo.org/records/7633134",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
   }
 ]
