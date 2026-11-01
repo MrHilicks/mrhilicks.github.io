@@ -52,7 +52,7 @@
   ],
   "work_eyebrow": "01 / SELECTED WORK",
   "work_title": "The work, not just the promise.",
-  "work_intro": "Four independent demonstration projects: site and volume analysis, road geometry, crop segmentation and terrain assessment. Each includes visual results and clear limits of use.",
+  "work_intro": "Five independent demonstration projects: maps and measurements, road geometry, crop segmentation, terrain assessment and object detection in thermal aerial imagery. Each includes visual results and clear limits of use.",
   "case_link": "Explore case study",
   "planned_link": "View project outline",
   "demo_badge": "Demonstration study",
@@ -169,7 +169,7 @@
     ],
     [
       "Are these client commissions?",
-      "No. All four cases are independent demonstration studies using third-party source material. They illustrate processing methods and results, not completed commercial commissions or certified surveying documentation."
+      "No. All five cases are independent demonstration studies using third-party source material. They illustrate processing methods and results, not completed commercial commissions or certified surveying documentation."
     ]
   ],
   "contact_eyebrow": "AVAILABLE FOR COMMERCIAL PROJECTS",
@@ -588,6 +588,98 @@
         ]
       ],
       "report": "Bellus_Client_Report_Portfolio.pdf"
+    },
+    {
+      "slug": "thermal-uav",
+      "number": "05",
+      "status": "demo",
+      "image": "thermal-card.webp",
+      "report": "HIT_UAV_Practical_Report.pdf",
+      "source_url": "https://zenodo.org/records/7633134",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "comparison": {
+        "before": "thermal-before.webp",
+        "after": "thermal-after.webp",
+        "eyebrow": "THERMAL / DETECTIONS",
+        "title": "One frame. Before and after processing.",
+        "intro": "Move the slider to compare the original thermal frame with the same frame annotated with detection boxes.",
+        "note": "A selected parking example. Model boxes require review; this is not a class map or a change over time.",
+        "before_label": "Original thermal frame",
+        "after_label": "Object detection boxes"
+      },
+      "category": "THERMAL AERIAL IMAGERY",
+      "title": "People and vehicles.\nDetection in thermal imagery.",
+      "full_title": "HIT-UAV: people and vehicles in thermal aerial imagery",
+      "summary": "Object boxes, preliminary counts per frame and selected image region, and close-ups for operator review.",
+      "image_alt": "Two real thermal frames showing vehicles and people with model detection boxes.",
+      "tags": [
+        "Object detection",
+        "Region counts",
+        "Operator review"
+      ],
+      "metric": "Frame → objects",
+      "metric_label": "boxes, preliminary counts and a detection table",
+      "objective": "Help an operator move from inspecting a full thermal frame to reviewing individual detections: highlight people and vehicles, provide preliminary counts and a separate summary for a selected image region.",
+      "inputs": "Six hand-picked thermal frames from the open HIT-UAV v1.2.1 dataset and actual saved object detection results. Day and night scenes are illustrative examples. This is a demonstration study, not a commercial commission or imagery captured by the analyst.",
+      "method": [
+        "Overlay the actual detection boxes and frame-local IDs linked to a table.",
+        "Count model detections by class in each frame and within a demonstration region.",
+        "Prepare close-ups and examples that require human review."
+      ],
+      "outputs": [
+        "Parking example: 12 vehicle detection boxes in the selected frame.",
+        "People examples: 14 detections in a daytime frame and 11 in the selected night frame.",
+        "Region A: 7 vehicle detections out of 23 in the full frame.",
+        "Annotated frames, a detection table with image coordinates and a six-page PDF report in Russian."
+      ],
+      "facts": [
+        [
+          "12",
+          "vehicle boxes, selected frame"
+        ],
+        [
+          "14",
+          "person boxes, daytime example"
+        ],
+        [
+          "7",
+          "detections within region A"
+        ]
+      ],
+      "limits": "Counts refer to the illustrated frames and are model detections before review. Misses, false detections and duplicate boxes are possible. Objects are not tracked or deduplicated across frames. Region A is illustrative: no georeferencing, area calculation or parking-space occupancy is provided. Operator time savings and performance on new flights have not been measured.",
+      "source": "Suo et al. (2023), HIT-UAV v1.2.1, CC BY 4.0. Original images were annotated with model boxes, captions, crops and layouts. Illustrations reproduce saved model outputs. The dataset authors performed the aerial acquisition.",
+      "gallery": [
+        {
+          "file": "gallery/thermal-01_parking_before_after.webp",
+          "caption": "The same frame before and after model annotations: 12 vehicle detections in this selected example.",
+          "alt": "The same frame before and after model annotations: 12 vehicle detections in this selected example.",
+          "wide": true
+        },
+        {
+          "file": "gallery/thermal-02_people_day_night.webp",
+          "caption": "People in separate day and night scenes. Model detections are shown before operator review.",
+          "alt": "People in separate day and night scenes. Model detections are shown before operator review.",
+          "wide": true
+        },
+        {
+          "file": "gallery/thermal-03_selected_zone_count.webp",
+          "caption": "Illustrative region A includes 7 vehicle boxes by their centre position; the full frame has 23 detections.",
+          "alt": "Illustrative region A includes 7 vehicle boxes by their centre position; the full frame has 23 detections.",
+          "wide": true
+        },
+        {
+          "file": "gallery/thermal-04_small_objects_detail.webp",
+          "caption": "Overview and close-up of the same image region. No new image details were generated.",
+          "alt": "Overview and close-up of the same image region. No new image details were generated.",
+          "wide": true
+        },
+        {
+          "file": "gallery/thermal-05_operator_review.webp",
+          "caption": "Review examples: missed annotated people and a false vehicle box on a staircase.",
+          "alt": "Review examples: missed annotated people and a false vehicle box on a staircase.",
+          "wide": true
+        }
+      ]
     }
   ],
   "brand_line": "ML · CV · AERIAL IMAGERY",

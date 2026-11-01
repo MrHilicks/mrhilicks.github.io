@@ -45,3 +45,9 @@ Agro использует WeedsGalore: Ekin Celikkan, Timo Kunzmann, Yertay Yesk
 ## Шрифты и внешние запросы
 
 Файлы шрифтов не включены. Сохранено подключение Google Fonts из предыдущей версии, отключаемое через `use_google_fonts`. Новые трекеры, cookies, сторонние карты и внешние загрузчики изображений не добавлялись. Политика индексации осталась прежней (`indexable: false`); это не ограничение доступа к опубликованному сайту.
+
+
+## HIT-UAV thermal detection
+
+Source: Suo et al. (2023), HIT-UAV v1.2.1, https://zenodo.org/records/7633134; CC BY 4.0.
+The original thermal frames were annotated with actual saved detections, cropped and composed into practical illustrations. Acquisition was performed by the dataset authors. Website images are resized WebP copies; no detections or analytical values were changed. Per-file source records and hashes are in MEDIA_SOURCES.json.

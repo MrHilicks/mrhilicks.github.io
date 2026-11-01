@@ -157,11 +157,15 @@ class Page:
         if not data:
             return ''
         t = self.t
-        return render('comparison.html', title=esc(t['comparison_title']), intro=esc(t['comparison_intro']),
-                      before_label=esc(t['comparison_before']), after_label=esc(t['comparison_after']),
-                      control=esc(t['comparison_control']), note=esc(t['comparison_note']),
-                      before=self.image(data['before'], t['comparison_before'], sizes='(max-width: 760px) 100vw, 600px'),
-                      after=self.image(data['after'], t['comparison_after'], sizes='(max-width: 760px) 100vw, 600px'))
+        # Подписи конкретного кейса; существующие сравнения используют прежние значения.
+        before_label = data.get('before_label', t['comparison_before'])
+        after_label = data.get('after_label', t['comparison_after'])
+        return render('comparison.html', eyebrow=esc(data.get('eyebrow', 'RGB / CLASS MAP')),
+                      title=esc(data.get('title', t['comparison_title'])), intro=esc(data.get('intro', t['comparison_intro'])),
+                      before_label=esc(before_label), after_label=esc(after_label),
+                      control=esc(t['comparison_control']), note=esc(data.get('note', t['comparison_note'])),
+                      before=self.image(data['before'], before_label, sizes='(max-width: 760px) 100vw, 600px'),
+                      after=self.image(data['after'], after_label, sizes='(max-width: 760px) 100vw, 600px'))
 
     def finish(self, body: str, title: str, description: str, image: str = 'construction-card.webp', indexable: bool = True) -> str:
         t=self.t
